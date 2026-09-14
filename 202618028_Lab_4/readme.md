@@ -6,7 +6,7 @@
 * **Name:** Manush Doshi
 * **Roll Number:** 202618028
 * **Program:** M.Sc. Data Science (Semester 1)
-* **Course:** DS602 — Statistical Modeling with Python
+* **Course:** DS602 — Applied Statistics
 
 ---
 
