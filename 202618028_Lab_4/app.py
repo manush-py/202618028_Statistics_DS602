@@ -11,7 +11,7 @@ st.title("Applied Statistical Modeling & Interactive Dashboard")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("insurance.csv")
+    return pd.read_csv("202618028_Lab_4/insurance.csv")
 
 try:
     df = load_data()
